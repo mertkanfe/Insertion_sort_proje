@@ -1,4 +1,4 @@
-# Patika Bootstrap ile Insertion Sort Projesi 
+# Insertion Sort Projesi 
 
 Merhaba. [Patika.dev](https://www.patika.dev/tr)'in proje 1 ödevini tamamladım.
 
