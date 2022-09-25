@@ -1,6 +1,6 @@
 # Insertion Sort Projesi 
 
-Merhaba. [Patika.dev](https://www.patika.dev/tr)'in proje 1 ödevini tamamladım.
+Merhaba. [Patika.dev](https://www.patika.dev/tr)'in Veri Yapıları ve Algoritmalar dersinin proje 1 ödevini tamamladım.
 
 ## [22,27,16,2,18,6] --> Insertion Sort
 
